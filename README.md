@@ -1,6 +1,6 @@
-# medical1
+# mental-health
 
-A new Flutter project.
+A new Flutter project for mental health applications.
 
 ## Getting Started
 
